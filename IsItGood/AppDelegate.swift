@@ -8,6 +8,7 @@
 
 import UIKit
 import CoreData
+//import Firebase
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
@@ -18,6 +19,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
         setWindow()
+        //FirebaseApp.configure()
         return true
     }
     
@@ -25,8 +27,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // This code allows building the application without using the storyboard
         window = UIWindow(frame: UIScreen.main.bounds)
         window?.makeKeyAndVisible()
-        let navController = UINavigationController(rootViewController: ViewController())
-        window?.rootViewController = navController
+        window?.rootViewController = CameraSessionVC() 
     }
 
     func applicationWillResignActive(_ application: UIApplication) {

@@ -8,9 +8,7 @@
 
 import Foundation
 
-class Ingredient: NSObject {
-    
-    
-    
-    
+class Ingredient: NSObject, Decodable {
+
 }
+

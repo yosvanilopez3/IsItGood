@@ -1,0 +1,1457 @@
+{
+    "wheatFlour": {
+        "benefits": {
+            "hasOmega3": 1,
+            "heartHealthy": 1,
+            "brainHealthy": 1,
+            "boneHealthy": 0,
+            "jointHealthy": 1,
+            "antioxidant": 1,
+            "minerals": 1,
+            "vitamins": 1,
+            "natural": 1,
+            "goodDigestion": 0
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": 0,
+            "isUnknown": 0,
+            "containsGluten": -1,
+            "badDigestion": -1
+        }
+    },
+    "water": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 0,
+            "brainHealthy": 0,
+            "boneHealthy": 0,
+            "jointHealthy": 0,
+            "antioxidant": 0,
+            "minerals": 0,
+            "vitamins": 0,
+            "natural": 0,
+            "goodDigestion": 0
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": 0,
+            "isUnknown": 0,
+            "containsGluten": 0,
+            "badDigestion": 0
+        }
+    },
+    
+    "flour": {
+        "benefits": {
+            "hasOmega3": 1,
+            "heartHealthy": 1,
+            "brainHealthy": 1,
+            "boneHealthy": 0,
+            "jointHealthy": 1,
+            "antioxidant": 1,
+            "minerals": 1,
+            "vitamins": 1,
+            "natural": 1,
+            "goodDigestion": 0
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": 0,
+            "isUnknown": 0,
+            "containsGluten": -1,
+            "badDigestion": -1
+        }
+    },
+    "niacin": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 1,
+            "brainHealthy": 1,
+            "boneHealthy": 1,
+            "jointHealthy": 1,
+            "antioxidant": 1,
+            "minerals": 0,
+            "vitamins": 1,
+            "natural": 0,
+            "goodDigestion": 1
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": 0,
+            "isUnknown": 0,
+            "containsGluten": 0,
+            "badDigestion": 0
+        }
+    },
+    "corn": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 0,
+            "brainHealthy": 0,
+            "boneHealthy": 0,
+            "jointHealthy": 0,
+            "antioxidant": 1,
+            "minerals": 0,
+            "vitamins": 0,
+            "natural": 1,
+            "goodDigestion": 0
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": 0,
+            "isUnknown": 0,
+            "containsGluten": 0,
+            "badDigestion": -1
+        }
+    },
+    "cornMeal": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 1,
+            "brainHealthy": 0,
+            "boneHealthy": 0,
+            "jointHealthy": 0,
+            "antioxidant": 1,
+            "minerals": 0,
+            "vitamins": 0,
+            "natural": 1,
+            "goodDigestion": 1
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": 0,
+            "isUnknown": 0,
+            "containsGluten": 0,
+            "badDigestion": 0
+        }
+    },
+    "thiamineMononitrate": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 1,
+            "brainHealthy": 1,
+            "boneHealthy": 0,
+            "jointHealthy": 0,
+            "antioxidant": 0,
+            "minerals": 0,
+            "vitamins": 1,
+            "natural": 0,
+            "goodDigestion": 1
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": 0,
+            "isUnknown": 0,
+            "containsGluten": 0,
+            "badDigestion": 0
+        }
+    },
+    "red40": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 0,
+            "brainHealthy": 0,
+            "boneHealthy": 0,
+            "jointHealthy": 0,
+            "antioxidant": 0,
+            "minerals": 0,
+            "vitamins": 0,
+            "natural": 0,
+            "goodDigestion": 0
+        },
+        "downsides": {
+            "carcinogen": -1,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": -1,
+            "isUnknown": 0,
+            "containsGluten": 0,
+            "badDigestion": 0
+        }
+    },
+    "yellow5": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 0,
+            "brainHealthy": 0,
+            "boneHealthy": 0,
+            "jointHealthy": 0,
+            "antioxidant": 0,
+            "minerals": 0,
+            "vitamins": 0,
+            "natural": 0,
+            "goodDigestion": 0
+        },
+        "downsides": {
+            "carcinogen": -1,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": -1,
+            "isUnknown": 0,
+            "containsGluten": 0,
+            "badDigestion": 0
+        }
+    },
+    "iron": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 0,
+            "brainHealthy": 0,
+            "boneHealthy": 0,
+            "jointHealthy": 0,
+            "antioxidant": 0,
+            "minerals": 1,
+            "vitamins": 0,
+            "natural": 0,
+            "goodDigestion": 0
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": 0,
+            "isUnknown": 0,
+            "containsGluten": 0,
+            "badDigestion": 0
+        }
+    },
+    "yellow6": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 0,
+            "brainHealthy": 0,
+            "boneHealthy": 0,
+            "jointHealthy": 0,
+            "antioxidant": 0,
+            "minerals": 0,
+            "vitamins": 0,
+            "natural": 0,
+            "goodDigestion": 0
+        },
+        "downsides": {
+            "carcinogen": -1,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": -1,
+            "isUnknown": 0,
+            "containsGluten": 0,
+            "badDigestion": 0
+        }
+    },
+    "monosodiumGlutamate": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 0,
+            "brainHealthy": 0,
+            "boneHealthy": 0,
+            "jointHealthy": 0,
+            "antioxidant": 0,
+            "minerals": 0,
+            "vitamins": 0,
+            "natural": 0,
+            "goodDigestion": 0
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": -1,
+            "isUnknown": 0,
+            "containsGluten": 0,
+            "badDigestion": 0
+        }
+    },
+    "riboflavin": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 1,
+            "brainHealthy": 1,
+            "boneHealthy": 1,
+            "jointHealthy": 0,
+            "antioxidant": 1,
+            "minerals": 0,
+            "vitamins": 1,
+            "natural": 0,
+            "goodDigestion": 1
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": 0,
+            "isUnknown": 0,
+            "containsGluten": 0,
+            "badDigestion": 0
+        }
+    },
+    "whey": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 1,
+            "brainHealthy": 1,
+            "boneHealthy": 1,
+            "jointHealthy": 0,
+            "antioxidant": 1,
+            "minerals": 1,
+            "vitamins": 1,
+            "natural": 1,
+            "goodDigestion": 0
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": 0,
+            "isUnknown": 0,
+            "containsGluten": 0,
+            "badDigestion": -1
+        }
+    },
+    "milk": {
+        "benefits": {
+            "hasOmega3": 1,
+            "heartHealthy": 1,
+            "brainHealthy": 1,
+            "boneHealthy": 1,
+            "jointHealthy": 1,
+            "antioxidant": 1,
+            "minerals": 1,
+            "vitamins": 1,
+            "natural": 1,
+            "goodDigestion": 0
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": 0,
+            "isUnknown": 0,
+            "containsGluten": 0,
+            "badDigestion": -1
+        }
+    },
+    "disodiumGuanylate": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 0,
+            "brainHealthy": 0,
+            "boneHealthy": 0,
+            "jointHealthy": 0,
+            "antioxidant": 0,
+            "minerals": 0,
+            "vitamins": 0,
+            "natural": 0,
+            "goodDigestion": 0
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": -1,
+            "isUnknown": 0,
+            "containsGluten": 0,
+            "badDigestion": -1
+        }
+    },
+    "disodiumInosynate": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 0,
+            "brainHealthy": 0,
+            "boneHealthy": 0,
+            "jointHealthy": 0,
+            "antioxidant": 0,
+            "minerals": 0,
+            "vitamins": 0,
+            "natural": 0,
+            "goodDigestion": 0
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": -1,
+            "isUnknown": -1,
+            "containsGluten": 0,
+            "badDigestion": -1
+        }
+    },
+    "maltedBarley": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 1,
+            "brainHealthy": 1,
+            "boneHealthy": 1,
+            "jointHealthy": 0,
+            "antioxidant": 1,
+            "minerals": 1,
+            "vitamins": 1,
+            "natural": 1,
+            "goodDigestion": 1
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": 0,
+            "isUnknown": 0,
+            "containsGluten": -1,
+            "badDigestion": 0
+        }
+    },
+    "vitaminAPalmitate": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 0,
+            "brainHealthy": 1,
+            "boneHealthy": 0,
+            "jointHealthy": 0,
+            "antioxidant": 0,
+            "minerals": 0,
+            "vitamins": 1,
+            "natural": 0,
+            "goodDigestion": 0
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": 0,
+            "isUnknown": 0,
+            "containsGluten": 0,
+            "badDigestion": 0
+        }
+    },
+    "cinnamon": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 1,
+            "brainHealthy": 1,
+            "boneHealthy": 1,
+            "jointHealthy": 0,
+            "antioxidant": 1,
+            "minerals": 1,
+            "vitamins": 1,
+            "natural": 1,
+            "goodDigestion": 1
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": 0,
+            "isUnknown": 0,
+            "containsGluten": 0,
+            "badDigestion": 0
+        }
+    },
+    "honey": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 1,
+            "brainHealthy": 1,
+            "boneHealthy": 1,
+            "jointHealthy": 0,
+            "antioxidant": 1,
+            "minerals": 1,
+            "vitamins": 1,
+            "natural": 1,
+            "goodDigestion": 1
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": 0,
+            "isUnknown": 0,
+            "containsGluten": 0,
+            "badDigestion": 0
+        }
+    },
+    "egg": {
+        "benefits": {
+            "hasOmega3": 1,
+            "heartHealthy": 1,
+            "brainHealthy": 1,
+            "boneHealthy": 1,
+            "jointHealthy": 1,
+            "antioxidant": 1,
+            "minerals": 1,
+            "vitamins": 1,
+            "natural": 1,
+            "goodDigestion": 0
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": -1,
+            "automaticDoNotEat": 0,
+            "isUnknown": 0,
+            "containsGluten": 0,
+            "badDigestion": 0
+        }
+    },
+    "butter": {
+        "benefits": {
+            "hasOmega3": 1,
+            "heartHealthy": 0,
+            "brainHealthy": 1,
+            "boneHealthy": 1,
+            "jointHealthy": 1,
+            "antioxidant": 1,
+            "minerals": 0,
+            "vitamins": 1,
+            "natural": 1,
+            "goodDigestion": 0
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": -1,
+            "automaticDoNotEat": 0,
+            "isUnknown": 0,
+            "containsGluten": 0,
+            "badDigestion": 0
+        }
+    },
+    "folicAcid": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 0,
+            "brainHealthy": 1,
+            "boneHealthy": 0,
+            "jointHealthy": 0,
+            "antioxidant": 1,
+            "minerals": 0,
+            "vitamins": 0,
+            "natural": 0,
+            "goodDigestion": 1
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": 0,
+            "isUnknown": 0,
+            "containsGluten": 0,
+            "badDigestion": 0
+        }
+    },
+    "ascorbicAcid": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 1,
+            "brainHealthy": 1,
+            "boneHealthy": 1,
+            "jointHealthy": 1,
+            "antioxidant": 1,
+            "minerals": 0,
+            "vitamins": 1,
+            "natural": 0,
+            "goodDigestion": 1
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": 0,
+            "isUnknown": 0,
+            "containsGluten": 0,
+            "badDigestion": 0
+        }
+    },
+    "sorbitanMonostearate": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 0,
+            "brainHealthy": 0,
+            "boneHealthy": 0,
+            "jointHealthy": 0,
+            "antioxidant": 0,
+            "minerals": 0,
+            "vitamins": 0,
+            "natural": 0,
+            "goodDigestion": 0
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": -1,
+            "isUnknown": 0,
+            "containsGluten": 0,
+            "badDigestion": -1
+        }
+    },
+    "fungalEnzymes": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 0,
+            "brainHealthy": 0,
+            "boneHealthy": 0,
+            "jointHealthy": 0,
+            "antioxidant": 0,
+            "minerals": 0,
+            "vitamins": 0,
+            "natural": 0,
+            "goodDigestion": 1
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": 0,
+            "isUnknown": 0,
+            "containsGluten": 0,
+            "badDigestion": 0
+        }
+    },
+    "acerolaExtract": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 1,
+            "brainHealthy": 1,
+            "boneHealthy": 1,
+            "jointHealthy": 0,
+            "antioxidant": 1,
+            "minerals": 1,
+            "vitamins": 1,
+            "natural": 1,
+            "goodDigestion": 1
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": 0,
+            "isUnknown": 0,
+            "containsGluten": 0,
+            "badDigestion": 0
+        }
+    },
+    
+    
+    "cornOil": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 0,
+            "brainHealthy": 0,
+            "boneHealthy": 0,
+            "jointHealthy": 0,
+            "antioxidant": 1,
+            "minerals": 0,
+            "vitamins": 0,
+            "natural": 0,
+            "goodDigestion": 0
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": -1,
+            "isUnknown": 0,
+            "containsGluten": 0,
+            "badDigestion": 0
+        }
+    },
+    "yeast": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 1,
+            "brainHealthy": 0,
+            "boneHealthy": 0,
+            "jointHealthy": 0,
+            "antioxidant": 0,
+            "minerals": 1,
+            "vitamins": 1,
+            "natural": 1,
+            "goodDigestion": 0
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": 0,
+            "isUnknown": 0,
+            "containsGluten": 0,
+            "badDigestion": -1
+        }
+    },
+    "canolaOil": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 0,
+            "brainHealthy": 0,
+            "boneHealthy": 0,
+            "jointHealthy": 0,
+            "antioxidant": 0,
+            "minerals": 0,
+            "vitamins": 0,
+            "natural": 0,
+            "goodDigestion": 0
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": -1,
+            "isUnknown": -1,
+            "containsGluten": 0,
+            "badDigestion": 0
+        }
+    },
+    "poppySeed": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 1,
+            "brainHealthy": 1,
+            "boneHealthy": 1,
+            "jointHealthy": 1,
+            "antioxidant": 0,
+            "minerals": 1,
+            "vitamins": 0,
+            "natural": 1,
+            "goodDigestion": 1
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": 0,
+            "isUnknown": 0,
+            "containsGluten": 0,
+            "badDigestion": 0
+        }
+    },
+    "sunflowerOil": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 0,
+            "brainHealthy": 0,
+            "boneHealthy": 0,
+            "jointHealthy": 0,
+            "antioxidant": 0,
+            "minerals": 0,
+            "vitamins": 0,
+            "natural": 0,
+            "goodDigestion": 0
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": -1,
+            "isUnknown": -1,
+            "containsGluten": 0,
+            "badDigestion": 0
+        }
+    },
+    "lactose": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 0,
+            "brainHealthy": 0,
+            "boneHealthy": 0,
+            "jointHealthy": 0,
+            "antioxidant": 0,
+            "minerals": 0,
+            "vitamins": 0,
+            "natural": 0,
+            "goodDigestion": 0
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": 0,
+            "isUnknown": 0,
+            "containsGluten": 0,
+            "badDigestion": -1
+        }
+    },
+    
+    "maltodextrin": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 0,
+            "brainHealthy": 0,
+            "boneHealthy": 0,
+            "jointHealthy": 0,
+            "antioxidant": 0,
+            "minerals": 0,
+            "vitamins": 0,
+            "natural": 0,
+            "goodDigestion": 0
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": 0,
+            "isUnknown": -1,
+            "containsGluten": 0,
+            "badDigestion": 0
+        }
+    },
+    "lacticAcid": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 0,
+            "brainHealthy": 0,
+            "boneHealthy": 0,
+            "jointHealthy": 0,
+            "antioxidant": 0,
+            "minerals": 0,
+            "vitamins": 0,
+            "natural": 0,
+            "goodDigestion": 0
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": 0,
+            "isUnknown": -1,
+            "containsGluten": 0,
+            "badDigestion": 0
+        }
+    },
+    "citricAcid": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 0,
+            "brainHealthy": 0,
+            "boneHealthy": 0,
+            "jointHealthy": 0,
+            "antioxidant": 0,
+            "minerals": 0,
+            "vitamins": 0,
+            "natural": 0,
+            "goodDigestion": 0
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": 0,
+            "isUnknown": -1,
+            "containsGluten": 0,
+            "badDigestion": 0
+        }
+    },
+    "buttermilk": {
+        "benefits": {
+            "hasOmega3": 1,
+            "heartHealthy": 0,
+            "brainHealthy": 1,
+            "boneHealthy": 1,
+            "jointHealthy": 0,
+            "antioxidant": 0,
+            "minerals": 1,
+            "vitamins": 1,
+            "natural": 1,
+            "goodDigestion": 0
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": 0,
+            "isUnknown": 0,
+            "containsGluten": 0,
+            "badDigestion": 0
+        }
+    },
+    "onionPowder": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 1,
+            "brainHealthy": 1,
+            "boneHealthy": 1,
+            "jointHealthy": 1,
+            "antioxidant": 1,
+            "minerals": 1,
+            "vitamins": 1,
+            "natural": 1,
+            "goodDigestion": 1
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": 0,
+            "isUnknown": 0,
+            "containsGluten": 0,
+            "badDigestion": 0
+        }
+    },
+    "dextrose": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 0,
+            "brainHealthy": 0,
+            "boneHealthy": 0,
+            "jointHealthy": 0,
+            "antioxidant": 0,
+            "minerals": 0,
+            "vitamins": 0,
+            "natural": 0,
+            "goodDigestion": 0
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": 0,
+            "isUnknown": -1,
+            "containsGluten": 0,
+            "badDigestion": 0
+        }
+    },
+    "tomatoPowder": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 1,
+            "brainHealthy": 1,
+            "boneHealthy": 1,
+            "jointHealthy": 0,
+            "antioxidant": 1,
+            "minerals": 1,
+            "vitamins": 1,
+            "natural": 1,
+            "goodDigestion": 0
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": 0,
+            "isUnknown": 0,
+            "containsGluten": 0,
+            "badDigestion": -1
+        }
+    },
+    "garlicPowder": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 1,
+            "brainHealthy": 1,
+            "boneHealthy": 1,
+            "jointHealthy": 1,
+            "antioxidant": 1,
+            "minerals": 1,
+            "vitamins": 1,
+            "natural": 1,
+            "goodDigestion": 1
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": 0,
+            "isUnknown": 0,
+            "containsGluten": 0,
+            "badDigestion": 0
+        }
+    },
+    "brownSugar": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 0,
+            "brainHealthy": 0,
+            "boneHealthy": 0,
+            "jointHealthy": 0,
+            "antioxidant": 0,
+            "minerals": 0,
+            "vitamins": 0,
+            "natural": 0,
+            "goodDigestion": 0
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": 0,
+            "isUnknown": -1,
+            "containsGluten": 0,
+            "badDigestion": 0
+        }
+    },
+    "sesameSeed": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 1,
+            "brainHealthy": 1,
+            "boneHealthy": 1,
+            "jointHealthy": 0,
+            "antioxidant": 1,
+            "minerals": 1,
+            "vitamins": 1,
+            "natural": 1,
+            "goodDigestion": 0
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": 0,
+            "isUnknown": 0,
+            "containsGluten": 0,
+            "badDigestion": 0
+        }
+    },
+    "palmOil": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 0,
+            "brainHealthy": 1,
+            "boneHealthy": 1,
+            "jointHealthy": 0,
+            "antioxidant": 1,
+            "minerals": 0,
+            "vitamins": 1,
+            "natural": 1,
+            "goodDigestion": 0
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": 0,
+            "isUnknown": 0,
+            "containsGluten": 0,
+            "badDigestion": 0
+        }
+    },
+    "betaCarotene": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 1,
+            "brainHealthy": 1,
+            "boneHealthy": 1,
+            "jointHealthy": 0,
+            "antioxidant": 1,
+            "minerals": 0,
+            "vitamins": 1,
+            "natural": 0,
+            "goodDigestion": 0
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": 0,
+            "isUnknown": 0,
+            "containsGluten": 0,
+            "badDigestion": 0
+        }
+    },
+    "carobBeanGum": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 0,
+            "brainHealthy": 0,
+            "boneHealthy": 0,
+            "jointHealthy": 0,
+            "antioxidant": 0,
+            "minerals": 0,
+            "vitamins": 0,
+            "natural": 0,
+            "goodDigestion": 0
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": 0,
+            "isUnknown": -1,
+            "containsGluten": 0,
+            "badDigestion": 0
+        }
+    },
+    "naturalVanillaFlavor": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 1,
+            "brainHealthy": 1,
+            "boneHealthy": 0,
+            "jointHealthy": 1,
+            "antioxidant": 1,
+            "minerals": 1,
+            "vitamins": 0,
+            "natural": 1,
+            "goodDigestion": 0
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": 0,
+            "isUnknown": 0,
+            "containsGluten": 0,
+            "badDigestion": 0
+        }
+    },
+    "soybeanOil": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 0,
+            "brainHealthy": 0,
+            "boneHealthy": 0,
+            "jointHealthy": 0,
+            "antioxidant": 0,
+            "minerals": 0,
+            "vitamins": 0,
+            "natural": 0,
+            "goodDigestion": 0
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": -1,
+            "isUnknown": -1,
+            "containsGluten": 0,
+            "badDigestion": 0
+        }
+    },
+    "cornSyrup": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 0,
+            "brainHealthy": 0,
+            "boneHealthy": 0,
+            "jointHealthy": 0,
+            "antioxidant": 0,
+            "minerals": 0,
+            "vitamins": 0,
+            "natural": 0,
+            "goodDigestion": 0
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": -1,
+            "isUnknown": 0,
+            "containsGluten": 0,
+            "badDigestion": 0
+        }
+    },
+    
+    "cornStarch" : {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 1,
+            "brainHealthy": 1,
+            "boneHealthy": 0,
+            "jointHealthy": 0,
+            "antioxidant": 0,
+            "minerals": 1,
+            "vitamins": 0,
+            "natural": 0,
+            "goodDigestion": 0
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": 0,
+            "isUnknown": 0,
+            "containsGluten": -1,
+            "badDigestion": 0
+        }
+    },
+    "agar": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 0,
+            "brainHealthy": 0,
+            "boneHealthy": 1,
+            "jointHealthy": 0,
+            "antioxidant": 0,
+            "minerals": 1,
+            "vitamins": 0,
+            "natural": 1,
+            "goodDigestion": 1
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": 0,
+            "isUnknown": 0,
+            "containsGluten": 0,
+            "badDigestion": 0
+        }
+    },
+    "naturalLemonFlavor": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 0,
+            "brainHealthy": 0,
+            "boneHealthy": 0,
+            "jointHealthy": 0,
+            "antioxidant": 0,
+            "minerals": 0,
+            "vitamins": 1,
+            "natural": 0,
+            "goodDigestion": 0
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": 0,
+            "isUnknown": 0,
+            "containsGluten": 0,
+            "badDigestion": 0
+        }
+    },
+    "redAndGreenPepperPowder": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 0,
+            "brainHealthy": 0,
+            "boneHealthy": 0,
+            "jointHealthy": 0,
+            "antioxidant": 0,
+            "minerals": 0,
+            "vitamins": 0,
+            "natural": 0,
+            "goodDigestion": 0
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": 0,
+            "isUnknown": 0,
+            "containsGluten": 0,
+            "badDigestion": 0
+        }
+    },
+    
+    "salt": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 0,
+            "brainHealthy": 1,
+            "boneHealthy": 0,
+            "jointHealthy": 0,
+            "antioxidant": 0,
+            "minerals": 1,
+            "vitamins": 0,
+            "natural": 0,
+            "goodDigestion": 0
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": 0,
+            "isUnknown": 0,
+            "containsGluten": 0,
+            "badDigestion": 0
+        }
+    },
+    "cheeseCultures": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 0,
+            "brainHealthy": 0,
+            "boneHealthy": 0,
+            "jointHealthy": 0,
+            "antioxidant": 0,
+            "minerals": 0,
+            "vitamins": 0,
+            "natural": 0,
+            "goodDigestion": 1
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": 0,
+            "isUnknown": 0,
+            "containsGluten": 0,
+            "badDigestion": 0
+        }
+    },
+    "enzymes": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 0,
+            "brainHealthy": 0,
+            "boneHealthy": 0,
+            "jointHealthy": 0,
+            "antioxidant": 0,
+            "minerals": 0,
+            "vitamins": 0,
+            "natural": 0,
+            "goodDigestion": 1
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": 0,
+            "isUnknown": 0,
+            "containsGluten": 0,
+            "badDigestion": 0
+        }
+    },
+    "spices": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 0,
+            "brainHealthy": 0,
+            "boneHealthy": 0,
+            "jointHealthy": 0,
+            "antioxidant": 0,
+            "minerals": 0,
+            "vitamins": 0,
+            "natural": 0,
+            "goodDigestion": 0
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": 0,
+            "isUnknown": 0,
+            "containsGluten": 0,
+            "badDigestion": 0
+        }
+    },
+    "sugar": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 0,
+            "brainHealthy": 0,
+            "boneHealthy": 0,
+            "jointHealthy": 0,
+            "antioxidant": 0,
+            "minerals": 0,
+            "vitamins": 0,
+            "natural": 0,
+            "goodDigestion": 0
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": 0,
+            "isUnknown": -1,
+            "containsGluten": 0,
+            "badDigestion": 0
+        }
+    },
+    "cornFlour": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 0,
+            "brainHealthy": 0,
+            "boneHealthy": 0,
+            "jointHealthy": 0,
+            "antioxidant": 0,
+            "minerals": 0,
+            "vitamins": 0,
+            "natural": 0,
+            "goodDigestion": 0
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": 0,
+            "isUnknown": 0,
+            "containsGluten": 0,
+            "badDigestion": 0
+        }
+    },
+    "wheyProteinConcentrate": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 0,
+            "brainHealthy": 0,
+            "boneHealthy": 0,
+            "jointHealthy": 0,
+            "antioxidant": 0,
+            "minerals": 0,
+            "vitamins": 0,
+            "natural": 0,
+            "goodDigestion": 0
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": 0,
+            "isUnknown": 0,
+            "containsGluten": 0,
+            "badDigestion": 0
+        }
+    },
+    "maltedBarleyFlour": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 0,
+            "brainHealthy": 0,
+            "boneHealthy": 0,
+            "jointHealthy": 0,
+            "antioxidant": 0,
+            "minerals": 0,
+            "vitamins": 0,
+            "natural": 1,
+            "goodDigestion": 0
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": 0,
+            "isUnknown": 0,
+            "containsGluten": -1,
+            "badDigestion": 0
+        }
+    },
+    "maltedWheatFlour": {
+        "benefits": {
+            "hasOmega3": 0,
+            "heartHealthy": 0,
+            "brainHealthy": 0,
+            "boneHealthy": 0,
+            "jointHealthy": 0,
+            "antioxidant": 0,
+            "minerals": 0,
+            "vitamins": 0,
+            "natural": 1,
+            "goodDigestion": 0
+        },
+        "downsides": {
+            "carcinogen": 0,
+            "hormoneDisruptor": 0,
+            "highCholesterol": 0,
+            "automaticDoNotEat": 0,
+            "isUnknown": 0,
+            "containsGluten": -1,
+            "badDigestion": 0
+        }
+    }
+}

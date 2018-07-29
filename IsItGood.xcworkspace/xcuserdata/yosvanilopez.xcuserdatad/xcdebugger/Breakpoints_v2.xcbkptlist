@@ -2,4 +2,341 @@
 <Bucket
    type = "0"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IsItGood/searchVC.swift"
+            timestampString = "554522216.20392"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
+            landmarkName = "collectionView(_:layout:sizeForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IsItGood/CameraSessionVC.swift"
+            timestampString = "554585175.459114"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "424"
+            endingLineNumber = "424"
+            landmarkName = "captureOutput(_:didOutput:from:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__ObjC.VNRequest, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in IsItGood.CameraSessionVC.captureOutput(__ObjC.AVCaptureOutput, didOutput: __ObjC.CMSampleBuffer, from: __ObjC.AVCaptureConnection) -&gt; ()"
+                  moduleName = "IsItGood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yosvanilopez/Desktop/IsItGood/IsItGood/CameraSessionVC.swift"
+                  timestampString = "554533352.404946"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "323"
+                  endingLineNumber = "323"
+                  offsetFromSymbolStart = "596">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; () in closure #1 (__ObjC.VNRequest, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in IsItGood.CameraSessionVC.captureOutput(__ObjC.AVCaptureOutput, didOutput: __ObjC.CMSampleBuffer, from: __ObjC.AVCaptureConnection) -&gt; ()"
+                  moduleName = "IsItGood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yosvanilopez/Desktop/IsItGood/IsItGood/CameraSessionVC.swift"
+                  timestampString = "554533352.406787"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "324"
+                  endingLineNumber = "324"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IsItGood/CameraSessionVC.swift"
+            timestampString = "554585175.459672"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "420"
+            endingLineNumber = "420"
+            landmarkName = "captureOutput(_:didOutput:from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IsItGood/CameraSessionVC.swift"
+            timestampString = "554585175.460071"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "421"
+            endingLineNumber = "421"
+            landmarkName = "captureOutput(_:didOutput:from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IsItGood/CameraSessionVC.swift"
+            timestampString = "554585175.460464"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "413"
+            endingLineNumber = "413"
+            landmarkName = "captureOutput(_:didOutput:from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IsItGood/CameraSessionVC.swift"
+            timestampString = "554585175.460863"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "416"
+            endingLineNumber = "416"
+            landmarkName = "captureOutput(_:didOutput:from:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IsItGood.CameraSessionVC.captureOutput(__ObjC.AVCaptureOutput, didOutput: __ObjC.CMSampleBuffer, from: __ObjC.AVCaptureConnection) -&gt; ()"
+                  moduleName = "IsItGood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yosvanilopez/Desktop/IsItGood/IsItGood/CameraSessionVC.swift"
+                  timestampString = "554533352.454959"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "316"
+                  endingLineNumber = "316"
+                  offsetFromSymbolStart = "296">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__ObjC.VNRequest, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in IsItGood.CameraSessionVC.captureOutput(__ObjC.AVCaptureOutput, didOutput: __ObjC.CMSampleBuffer, from: __ObjC.AVCaptureConnection) -&gt; ()"
+                  moduleName = "IsItGood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yosvanilopez/Desktop/IsItGood/IsItGood/CameraSessionVC.swift"
+                  timestampString = "554533352.45797"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "317"
+                  endingLineNumber = "317"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IsItGood/CameraSessionVC.swift"
+            timestampString = "554585175.461308"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "418"
+            endingLineNumber = "418"
+            landmarkName = "captureOutput(_:didOutput:from:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__ObjC.VNRequest, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in IsItGood.CameraSessionVC.captureOutput(__ObjC.AVCaptureOutput, didOutput: __ObjC.CMSampleBuffer, from: __ObjC.AVCaptureConnection) -&gt; ()"
+                  moduleName = "IsItGood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yosvanilopez/Desktop/IsItGood/IsItGood/CameraSessionVC.swift"
+                  timestampString = "554532836.469236"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "311"
+                  endingLineNumber = "311"
+                  offsetFromSymbolStart = "280">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__ObjC.VNClassificationObservation) -&gt; Swift.Bool in closure #1 (__ObjC.VNRequest, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in IsItGood.CameraSessionVC.captureOutput(__ObjC.AVCaptureOutput, didOutput: __ObjC.CMSampleBuffer, from: __ObjC.AVCaptureConnection) -&gt; ()"
+                  moduleName = "IsItGood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yosvanilopez/Desktop/IsItGood/IsItGood/CameraSessionVC.swift"
+                  timestampString = "554532836.4719239"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "311"
+                  endingLineNumber = "311"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (__ObjC.VNClassificationObservation) -&gt; Swift.String in closure #1 (__ObjC.VNRequest, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in IsItGood.CameraSessionVC.captureOutput(__ObjC.AVCaptureOutput, didOutput: __ObjC.CMSampleBuffer, from: __ObjC.AVCaptureConnection) -&gt; ()"
+                  moduleName = "IsItGood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yosvanilopez/Desktop/IsItGood/IsItGood/CameraSessionVC.swift"
+                  timestampString = "554532836.480448"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "312"
+                  endingLineNumber = "312"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IsItGood/CameraSessionVC.swift"
+            timestampString = "554585175.461675"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "417"
+            endingLineNumber = "417"
+            landmarkName = "captureOutput(_:didOutput:from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IsItGood/CameraSessionVC.swift"
+            timestampString = "554585175.46205"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "445"
+            endingLineNumber = "445"
+            landmarkName = "captureOutput(_:didOutput:from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IsItGood/CameraSessionVC.swift"
+            timestampString = "554585175.462415"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "436"
+            endingLineNumber = "436"
+            landmarkName = "captureOutput(_:didOutput:from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IsItGood/CameraSessionVC.swift"
+            timestampString = "554585175.462648"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "438"
+            endingLineNumber = "438"
+            landmarkName = "captureOutput(_:didOutput:from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IsItGood/CameraSessionVC.swift"
+            timestampString = "554585175.462881"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "441"
+            endingLineNumber = "441"
+            landmarkName = "captureOutput(_:didOutput:from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IsItGood/CameraSessionVC.swift"
+            timestampString = "554585175.463347"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "440"
+            endingLineNumber = "440"
+            landmarkName = "captureOutput(_:didOutput:from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IsItGood/CameraSessionVC.swift"
+            timestampString = "554585175.463699"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "442"
+            endingLineNumber = "442"
+            landmarkName = "captureOutput(_:didOutput:from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>

@@ -1,0 +1,34 @@
+{"doritos": {
+			"ingredientsCount:": 28,
+			"ingredients": ["corn", "cornOil", "canolaOil", "sunflowerOil", "maltodextrin",
+			"salt", "milk", "cheeseCultures", "enzymes", "whey",
+			"monosodiumGlutamate", "wheyProteinConcentrate", "buttermilk", "onionPowder",
+			"cornFlour", "dextrose", "tomatoPowder", "lactose", "spices", "yellow5",
+			"yellow6", "red40", "lacticAcid", "citricAcid", "sugar", "garlicPowder",
+			"redAndGreenPepperPowder", "disodiumInosinate", "disodiumGuanylate"]
+		},
+		"cheetos": {
+			"ingredientsCount:": 19,
+			"ingredients": ["cornMeal", "iron", "niacin", "thiamineMononitrate",
+			"riboflavin", "folicAcid", "cornOil", "canolaOil", "sunflowerOil", "whey", 
+			"milk", "cheeseCultures", "salt", "maltodextrin", "wheyProteinConcentrate",
+			"monosodiumGlutamate", "lacticAcid", "citricAcid", "yellow6"]
+		},
+		"everythingBagel": {
+			"ingredientsCount:": 21,
+			"ingredients": ["wheatFlour", "maltedBarleyFlour", "niacin", "iron",
+			"thiamineMononitrate", "riboflavin", "folicAcid", "water", "brownSugar",
+			"sesameSeed", "poppySeed", "salt", "garlic", "onionPowder",
+			"maltedWheatFlour", "niacin", "yeast", "acerolaExtract", "fungalEnzymes",
+			"sorbitanMonostearate", "ascorbicAcid"]
+		},
+		"cinnamonRoll": {
+			"ingredientsCount:": 30,
+			"ingredients": ["flour", "maltedBarleyFlour", "niacin", "iron",
+			"thiamineMononitrate", "riboflavin", "folicAcid", "water", "egg", "butter",
+			"palmOil", "soybeanOil", "salt", "betaCarotene", "vitaminAPalmitate",
+			"brownSugar", "sugar", "yeast", "cinnamon", "milk", "cheeseCulture",
+			"carobBeanGum", "ascorbicAcid", "honey", "naturalVanillaFlavor",
+			"soybeanOil", "cornSyrup", "cornStarch", "agar", "naturalLemonFlavor"]
+		}
+}

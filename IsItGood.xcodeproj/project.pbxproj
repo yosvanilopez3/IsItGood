@@ -8,9 +8,18 @@
 
 /* Begin PBXBuildFile section */
 		1F62D7AFF2C2458C23C4588E /* Pods_IsItGood.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 133BAD6637325A38195D08CB /* Pods_IsItGood.framework */; };
-		281F5944210D174A007E2128 /* searchVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 281F5943210D174A007E2128 /* searchVC.swift */; };
+		2833E77E210D31F700628598 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2833E77D210D31F700628598 /* GoogleService-Info.plist */; };
+		2833E780210D48D000628598 /* HelperClasses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2833E77F210D48D000628598 /* HelperClasses.swift */; };
+		2833E782210D532400628598 /* FoodCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2833E781210D532400628598 /* FoodCell.swift */; };
+		2833E784210D618C00628598 /* FoodDetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2833E783210D618C00628598 /* FoodDetailsView.swift */; };
+		2833E788210D97DB00628598 /* test.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 2833E787210D97DB00628598 /* test.JPG */; };
+		2833E78A210E0A4600628598 /* FoodDataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2833E789210E0A4600628598 /* FoodDataService.swift */; };
+		2833E78E210E1E2E00628598 /* FoodDatabase.json in Resources */ = {isa = PBXBuildFile; fileRef = 2833E78D210E1E2E00628598 /* FoodDatabase.json */; };
+		2833E790210E273800628598 /* InfoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2833E78F210E273800628598 /* InfoCell.swift */; };
+		2833E792210E2EF500628598 /* IngredientsDatabase.json in Resources */ = {isa = PBXBuildFile; fileRef = 2833E791210E2EF500628598 /* IngredientsDatabase.json */; };
+		2833E794210E3AE700628598 /* FoodID.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 2833E793210E3AE600628598 /* FoodID.mlmodel */; };
+		2833E796210E3F0200628598 /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2833E795210E3F0200628598 /* HeaderView.swift */; };
 		28C9D1C0210D043000F8115D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28C9D1BF210D043000F8115D /* AppDelegate.swift */; };
-		28C9D1C2210D043000F8115D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28C9D1C1210D043000F8115D /* ViewController.swift */; };
 		28C9D1C8210D043000F8115D /* IsItGood.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 28C9D1C6210D043000F8115D /* IsItGood.xcdatamodeld */; };
 		28C9D1CA210D043500F8115D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 28C9D1C9210D043500F8115D /* Assets.xcassets */; };
 		28C9D1CD210D043500F8115D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 28C9D1CB210D043500F8115D /* LaunchScreen.storyboard */; };
@@ -19,7 +28,6 @@
 		28C9D1F1210D0F8D00F8115D /* CameraSessionVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28C9D1F0210D0F8D00F8115D /* CameraSessionVC.swift */; };
 		28C9D1F3210D114F00F8115D /* Food.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28C9D1F2210D114F00F8115D /* Food.swift */; };
 		28C9D1F5210D116F00F8115D /* Ingredient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28C9D1F4210D116F00F8115D /* Ingredient.swift */; };
-		28C9D1F7210D11A200F8115D /* FoodDetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28C9D1F6210D11A200F8115D /* FoodDetailVC.swift */; };
 		5D9F6976CCE05C2A7CBB65EE /* Pods_IsItGoodTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D3597BB808B133A4966AFD28 /* Pods_IsItGoodTests.framework */; };
 		956696F651CEA728D7E3756E /* Pods_IsItGoodUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 98BBA1E52B4F852948A4FAE9 /* Pods_IsItGoodUITests.framework */; };
 /* End PBXBuildFile section */
@@ -46,10 +54,19 @@
 		0AFD02A801A3FE327F32F869 /* Pods-IsItGood.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-IsItGood.debug.xcconfig"; path = "Pods/Target Support Files/Pods-IsItGood/Pods-IsItGood.debug.xcconfig"; sourceTree = "<group>"; };
 		133BAD6637325A38195D08CB /* Pods_IsItGood.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_IsItGood.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		26A1F1B95CE45055FC37A5DE /* Pods-IsItGoodUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-IsItGoodUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-IsItGoodUITests/Pods-IsItGoodUITests.release.xcconfig"; sourceTree = "<group>"; };
-		281F5943210D174A007E2128 /* searchVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = searchVC.swift; sourceTree = "<group>"; };
+		2833E77D210D31F700628598 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		2833E77F210D48D000628598 /* HelperClasses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelperClasses.swift; sourceTree = "<group>"; };
+		2833E781210D532400628598 /* FoodCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodCell.swift; sourceTree = "<group>"; };
+		2833E783210D618C00628598 /* FoodDetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodDetailsView.swift; sourceTree = "<group>"; };
+		2833E787210D97DB00628598 /* test.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = test.JPG; sourceTree = "<group>"; };
+		2833E789210E0A4600628598 /* FoodDataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodDataService.swift; sourceTree = "<group>"; };
+		2833E78D210E1E2E00628598 /* FoodDatabase.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = FoodDatabase.json; sourceTree = "<group>"; };
+		2833E78F210E273800628598 /* InfoCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoCell.swift; sourceTree = "<group>"; };
+		2833E791210E2EF500628598 /* IngredientsDatabase.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = IngredientsDatabase.json; sourceTree = "<group>"; };
+		2833E793210E3AE600628598 /* FoodID.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = FoodID.mlmodel; sourceTree = "<group>"; };
+		2833E795210E3F0200628598 /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
 		28C9D1BC210D043000F8115D /* IsItGood.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IsItGood.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		28C9D1BF210D043000F8115D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		28C9D1C1210D043000F8115D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		28C9D1C7210D043000F8115D /* IsItGood.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = IsItGood.xcdatamodel; sourceTree = "<group>"; };
 		28C9D1C9210D043500F8115D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		28C9D1CC210D043500F8115D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -63,7 +80,6 @@
 		28C9D1F0210D0F8D00F8115D /* CameraSessionVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraSessionVC.swift; sourceTree = "<group>"; };
 		28C9D1F2210D114F00F8115D /* Food.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Food.swift; sourceTree = "<group>"; };
 		28C9D1F4210D116F00F8115D /* Ingredient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ingredient.swift; sourceTree = "<group>"; };
-		28C9D1F6210D11A200F8115D /* FoodDetailVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodDetailVC.swift; sourceTree = "<group>"; };
 		749DD80D7551280A93D8ADE3 /* Pods-IsItGoodUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-IsItGoodUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-IsItGoodUITests/Pods-IsItGoodUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		98BBA1E52B4F852948A4FAE9 /* Pods_IsItGoodUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_IsItGoodUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9C57CCDE1CB716B430D3EE94 /* Pods-IsItGoodTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-IsItGoodTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-IsItGoodTests/Pods-IsItGoodTests.release.xcconfig"; sourceTree = "<group>"; };
@@ -125,15 +141,23 @@
 			isa = PBXGroup;
 			children = (
 				28C9D1BF210D043000F8115D /* AppDelegate.swift */,
-				28C9D1C1210D043000F8115D /* ViewController.swift */,
+				2833E77F210D48D000628598 /* HelperClasses.swift */,
 				28C9D1F0210D0F8D00F8115D /* CameraSessionVC.swift */,
-				281F5943210D174A007E2128 /* searchVC.swift */,
-				28C9D1F6210D11A200F8115D /* FoodDetailVC.swift */,
+				2833E781210D532400628598 /* FoodCell.swift */,
+				2833E78F210E273800628598 /* InfoCell.swift */,
 				28C9D1F2210D114F00F8115D /* Food.swift */,
+				2833E783210D618C00628598 /* FoodDetailsView.swift */,
+				2833E795210E3F0200628598 /* HeaderView.swift */,
 				28C9D1F4210D116F00F8115D /* Ingredient.swift */,
+				2833E789210E0A4600628598 /* FoodDataService.swift */,
 				28C9D1C9210D043500F8115D /* Assets.xcassets */,
+				2833E793210E3AE600628598 /* FoodID.mlmodel */,
 				28C9D1CB210D043500F8115D /* LaunchScreen.storyboard */,
 				28C9D1CE210D043500F8115D /* Info.plist */,
+				2833E78D210E1E2E00628598 /* FoodDatabase.json */,
+				2833E791210E2EF500628598 /* IngredientsDatabase.json */,
+				2833E787210D97DB00628598 /* test.JPG */,
+				2833E77D210D31F700628598 /* GoogleService-Info.plist */,
 				28C9D1C6210D043000F8115D /* IsItGood.xcdatamodeld */,
 			);
 			path = IsItGood;
@@ -288,8 +312,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2833E78E210E1E2E00628598 /* FoodDatabase.json in Resources */,
 				28C9D1CD210D043500F8115D /* LaunchScreen.storyboard in Resources */,
+				2833E788210D97DB00628598 /* test.JPG in Resources */,
 				28C9D1CA210D043500F8115D /* Assets.xcassets in Resources */,
+				2833E77E210D31F700628598 /* GoogleService-Info.plist in Resources */,
+				2833E792210E2EF500628598 /* IngredientsDatabase.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -389,14 +417,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				281F5944210D174A007E2128 /* searchVC.swift in Sources */,
-				28C9D1C2210D043000F8115D /* ViewController.swift in Sources */,
 				28C9D1C0210D043000F8115D /* AppDelegate.swift in Sources */,
+				2833E784210D618C00628598 /* FoodDetailsView.swift in Sources */,
+				2833E78A210E0A4600628598 /* FoodDataService.swift in Sources */,
+				2833E780210D48D000628598 /* HelperClasses.swift in Sources */,
+				2833E790210E273800628598 /* InfoCell.swift in Sources */,
+				2833E794210E3AE700628598 /* FoodID.mlmodel in Sources */,
 				28C9D1F5210D116F00F8115D /* Ingredient.swift in Sources */,
+				2833E796210E3F0200628598 /* HeaderView.swift in Sources */,
 				28C9D1F3210D114F00F8115D /* Food.swift in Sources */,
 				28C9D1F1210D0F8D00F8115D /* CameraSessionVC.swift in Sources */,
+				2833E782210D532400628598 /* FoodCell.swift in Sources */,
 				28C9D1C8210D043000F8115D /* IsItGood.xcdatamodeld in Sources */,
-				28C9D1F7210D11A200F8115D /* FoodDetailVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
