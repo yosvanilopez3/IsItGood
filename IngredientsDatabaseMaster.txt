@@ -142,4 +142,48 @@
 				"containsTransFat": false,
 				"containsRefinedSugar": false
 			}]
+		}],
+		"tomato"[{
+			"positives": [{
+				"isBrainHealthy": true,
+				"isHeartHealthy": false,
+				"isBoneHealthy": false,
+				"reducesBloodPressure": false,
+				"reducesCholesterol": false,
+				"isAntiinflammatory": false,
+				"helpsWeightLoss": false,
+				"isDetoxifier": false,
+				"isEasilyDigested": false,
+				"isLowFat": false,
+				"isLowCarb": false,
+				"isImmuneBooster": false,
+				"isHighOmega3": false,
+				"containsSomeOmega3": false,
+				"isHighMonounsaturatedFat": false,
+				"isHighProtein": false,
+				"isNatural": false,
+				"isNutrientRich": false,
+				"isGlutenFree": false,
+				"isHighFiber": false,
+				"containsVitamins": false,
+				"containsMinerals": false,
+				"containsAntioxidants": false
+			}],
+			"negatives": [{
+				"isBrainUnhealthy": false,
+				"isHeartUnhealthy": false,
+				"raisesBloodPressure": false,
+				"raisesCholesterol": false,
+				"isInflammatory": false,
+				"isToxic": false,
+				"isHormoneDisruptor": false,
+				"isDigestedWithDifficulty": false,
+				"isHighFat": false,
+				"isHighCarb": false,
+				"isLinkedToDisease": false,
+				"isCarcinogenic": false,
+				"containsUnnaturalOil": false,
+				"containsTransFat": false,
+				"containsRefinedSugar": false
+			}]
 		}]
