@@ -2,23 +2,23 @@
 	"ingredients":{
 		"sample": [{
 			"positives": [{
-				"benefit1",
-				"benefit2"
+				"benefit1": true,
+				"benefit2": true
 			}],
 			"negatives": [{
-				"negative1",
-				"negative2"
+				"negative1": true,
+				"negative2": true
 			}]
 		}]
 ,
-		"onion"[{
+		"onion": [{
 			"positives": [{
 				"isBrainHealthy": true,
 				"isHeartHealthy": true,
 				"isBoneHealthy": true,
 				"reducesBloodPressure": true,
 				"reducesCholesterol": true,
-				"isAntiinflammatory": true,
+				"isAntiinflamatory": true,
 				"helpsWeightLoss": true,
 				"isDetoxifier": true,
 				"isEasilyDigested": true,
