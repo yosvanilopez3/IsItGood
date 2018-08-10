@@ -280,3 +280,48 @@
 				"containsRefinedSugar": false
 			}]
 		}]
+,
+		"garlic"[{
+			"positives": [{
+				"isBrainHealthy": true,
+				"isHeartHealthy": false,
+				"isBoneHealthy": true,
+				"reducesBloodPressure": false,
+				"reducesCholesterol": false,
+				"isAntiinflammatory": false,
+				"helpsWeightLoss": false,
+				"isDetoxifier": false,
+				"isEasilyDigested": false,
+				"isLowFat": false,
+				"isLowCarb": true,
+				"isImmuneBooster": false,
+				"isHighOmega3": false,
+				"containsSomeOmega3": false,
+				"isHighMonounsaturatedFat": false,
+				"isHighProtein": true,
+				"isNatural": false,
+				"isNutrientRich": false,
+				"isGlutenFree": true,
+				"isHighFiber": false,
+				"containsVitamins": false,
+				"containsMinerals": false,
+				"containsAntioxidants": false
+			}],
+			"negatives": [{
+				"isBrainUnhealthy": false,
+				"isHeartUnhealthy": true,
+				"raisesBloodPressure": false,
+				"raisesCholesterol": false,
+				"isInflammatory": false,
+				"isToxic": false,
+				"isHormoneDisruptor": false,
+				"isDigestedWithDifficulty": false,
+				"isHighFat": false,
+				"isHighCarb": false,
+				"isLinkedToDisease": false,
+				"isCarcinogenic": false,
+				"containsUnnaturalOil": false,
+				"containsTransFat": false,
+				"containsRefinedSugar": false
+			}]
+		}]
