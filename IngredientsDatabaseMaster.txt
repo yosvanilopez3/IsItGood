@@ -1,0 +1,57 @@
+{
+	"ingredients":{
+		"sample": [{
+			"positives": [{
+				"benefit1",
+				"benefit2"
+			}],
+			"negatives": [{
+				"negative1",
+				"negative2"
+			}]
+		}]
+,
+		"potato"[{
+			"positives": [{
+				"isBrainHealthy": true,
+				"isHeartHealthy": false,
+				"isBoneHealthy": false,
+				"reducesBloodPressure": false,
+				"reducesCholesterol": false,
+				"isAntiinflammatory": false,
+				"helpsWeightLoss": false,
+				"isDetoxifier": false,
+				"isEasilyDigested": false,
+				"isLowFat": false,
+				"isLowCarb": false,
+				"isImmuneBooster": false,
+				"isHighOmega3": false,
+				"containsSomeOmega3": false,
+				"isHighMonounsaturatedFat": false,
+				"isHighProtein": false,
+				"isNatural": false,
+				"isNutrientRich": false,
+				"isGlutenFree": false,
+				"isHighFiber": false,
+				"containsVitamins": false,
+				"containsMinerals": false,
+				"containsAntioxidants": true
+			}],
+			"negatives": [{
+				"isBrainUnhealthy": false,
+				"isHeartUnhealthy": false,
+				"raisesBloodPressure": false,
+				"raisesCholesterol": false,
+				"isInflammatory": true,
+				"isToxic": false,
+				"isHormoneDisruptor": false,
+				"isDigestedWithDifficulty": false,
+				"isHighFat": false,
+				"isHighCarb": false,
+				"isLinkedToDisease": false,
+				"isCarcinogenic": false,
+				"containsUnnaturalOil": false,
+				"containsTransFat": true,
+				"containsRefinedSugar": false
+			}]
+		}]
