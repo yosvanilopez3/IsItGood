@@ -9,7 +9,7 @@
 				"negative1": true,
 				"negative2": true
 			}]
-		}],
+		}]
 ,
 		"onion": [{
 			"positives": [{
@@ -225,6 +225,51 @@
 				"isDigestedWithDifficulty": false,
 				"isHighFat": false,
 				"isHighCarb": false,
+				"isLinkedToDisease": false,
+				"isCarcinogenic": false,
+				"containsUnnaturalOil": false,
+				"containsTransFat": false,
+				"containsRefinedSugar": false
+			}]
+		}]
+,
+		"wholeGrainRolledOats": [{
+			"positives": [{
+				"isBrainHealthy": true,
+				"isHeartHealthy": true,
+				"isBoneHealthy": true,
+				"reducesBloodPressure": true,
+				"reducesCholesterol": true,
+				"isAntiinflamatory": true,
+				"helpsWeightLoss": true,
+				"isDetoxifier": false,
+				"isEasilyDigested": true,
+				"isLowFat": true,
+				"isLowCarb": false,
+				"isImmuneBooster": true,
+				"isHighOmega3": false,
+				"containsSomeOmega3": true,
+				"isHighMonounsaturatedFat": false,
+				"isHighProtein": false,
+				"isNatural": true,
+				"isNutrientRich": true,
+				"isGlutenFree": false,
+				"isHighFiber": true,
+				"containsVitamins": true,
+				"containsMinerals": true,
+				"containsAntioxidants": true
+			}],
+			"negatives": [{
+				"isBrainUnhealthy": false,
+				"isHeartUnhealthy": false,
+				"raisesBloodPressure": false,
+				"raisesCholesterol": false,
+				"isInflammatory": false,
+				"isToxic": false,
+				"isHormoneDisruptor": false,
+				"isDigestedWithDifficulty": false,
+				"isHighFat": false,
+				"isHighCarb": true,
 				"isLinkedToDisease": false,
 				"isCarcinogenic": false,
 				"containsUnnaturalOil": false,
