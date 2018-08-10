@@ -9,7 +9,7 @@
 				"negative1": true,
 				"negative2": true
 			}]
-		}]
+		}],
 ,
 		"onion": [{
 			"positives": [{
@@ -164,6 +164,51 @@
 				"isNatural": true,
 				"isNutrientRich": true,
 				"isGlutenFree": false,
+				"isHighFiber": true,
+				"containsVitamins": true,
+				"containsMinerals": true,
+				"containsAntioxidants": true
+			}],
+			"negatives": [{
+				"isBrainUnhealthy": false,
+				"isHeartUnhealthy": false,
+				"raisesBloodPressure": false,
+				"raisesCholesterol": false,
+				"isInflammatory": false,
+				"isToxic": false,
+				"isHormoneDisruptor": false,
+				"isDigestedWithDifficulty": false,
+				"isHighFat": false,
+				"isHighCarb": false,
+				"isLinkedToDisease": false,
+				"isCarcinogenic": false,
+				"containsUnnaturalOil": false,
+				"containsTransFat": false,
+				"containsRefinedSugar": false
+			}]
+		}]
+,
+		"onionPowder": [{
+			"positives": [{
+				"isBrainHealthy": true,
+				"isHeartHealthy": true,
+				"isBoneHealthy": true,
+				"reducesBloodPressure": true,
+				"reducesCholesterol": true,
+				"isAntiinflamatory": true,
+				"helpsWeightLoss": true,
+				"isDetoxifier": true,
+				"isEasilyDigested": true,
+				"isLowFat": true,
+				"isLowCarb": true,
+				"isImmuneBooster": true,
+				"isHighOmega3": false,
+				"containsSomeOmega3": false,
+				"isHighMonounsaturatedFat": false,
+				"isHighProtein": false,
+				"isNatural": true,
+				"isNutrientRich": true,
+				"isGlutenFree": true,
 				"isHighFiber": true,
 				"containsVitamins": true,
 				"containsMinerals": true,
